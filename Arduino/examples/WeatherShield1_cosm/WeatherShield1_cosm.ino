@@ -72,7 +72,7 @@ void setup() {
     blinkForever( "Shield error", BLINKS_ERR_WS );
   }
 
-  weatherShield.sendCommand(CMD_SET_SAMPLETIME, 1, ucBuffer);
+  weatherShield.sendCommand(CMD_SET_SAMPLETIME, 0, ucBuffer);
   unsigned long startMillis = millis();  
 
 
