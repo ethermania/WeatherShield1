@@ -1,5 +1,5 @@
-WeatherShield 1
-===============
+The WeatherShield1 board
+========================
 
 Introduction
 ------------
