@@ -7,6 +7,6 @@ See http://www.ethermania.com/shop/index.php?main_page=product_info&cPath=91_104
 
 The user libraries, sample code and manuals are available on GitHub.
 
-See the `Docs/` folder to get started!
+See the `Doc/` folder to get started!
 
 
